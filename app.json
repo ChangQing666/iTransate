@@ -1,0 +1,21 @@
+{
+  "pages":[
+
+    "pages/index/index",
+
+    "pages/edit/edit"
+  ],
+  "window": {
+      "backgroundTextStyle": "light",
+      "backgroundColor": "#118DF0",
+      "navigationBarBackgroundColor": "#118DF0",
+      "navigationBarTitleText": "爱翻译",
+      "navigationBarTextStyle": "white"
+  },
+  "plugins": {
+    "WechatSI": {
+      "version": "0.0.6",
+      "provider": "wx069ba97219f66d99"
+    }
+  }
+}
